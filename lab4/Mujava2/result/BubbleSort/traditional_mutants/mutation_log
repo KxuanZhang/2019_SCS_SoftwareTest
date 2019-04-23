@@ -1,0 +1,152 @@
+AORB_1:13:int_BubbleSort(int):arr.length - 1 => arr.length * 1
+AORB_2:13:int_BubbleSort(int):arr.length - 1 => arr.length / 1
+AORB_3:13:int_BubbleSort(int):arr.length - 1 => arr.length % 1
+AORB_4:13:int_BubbleSort(int):arr.length - 1 => arr.length + 1
+AORB_5:14:int_BubbleSort(int):arr.length - i => arr.length * i
+AORB_6:14:int_BubbleSort(int):arr.length - i => arr.length / i
+AORB_7:14:int_BubbleSort(int):arr.length - i => arr.length % i
+AORB_8:14:int_BubbleSort(int):arr.length - i => arr.length + i
+AORB_9:14:int_BubbleSort(int):arr.length - i - 1 => (arr.length - i) * 1
+AORB_10:14:int_BubbleSort(int):arr.length - i - 1 => (arr.length - i) / 1
+AORB_11:14:int_BubbleSort(int):arr.length - i - 1 => (arr.length - i) % 1
+AORB_12:14:int_BubbleSort(int):arr.length - i - 1 => arr.length - i + 1
+AORB_13:15:int_BubbleSort(int):j + 1 => j * 1
+AORB_14:15:int_BubbleSort(int):j + 1 => j / 1
+AORB_15:15:int_BubbleSort(int):j + 1 => j % 1
+AORB_16:15:int_BubbleSort(int):j + 1 => j - 1
+AORB_17:17:int_BubbleSort(int):j + 1 => j * 1
+AORB_18:17:int_BubbleSort(int):j + 1 => j / 1
+AORB_19:17:int_BubbleSort(int):j + 1 => j % 1
+AORB_20:17:int_BubbleSort(int):j + 1 => j - 1
+AORB_21:18:int_BubbleSort(int):j + 1 => j * 1
+AORB_22:18:int_BubbleSort(int):j + 1 => j / 1
+AORB_23:18:int_BubbleSort(int):j + 1 => j % 1
+AORB_24:18:int_BubbleSort(int):j + 1 => j - 1
+AORS_1:13:int_BubbleSort(int):i++ => i--
+AORS_2:14:int_BubbleSort(int):j++ => j--
+AOIU_1:16:int_BubbleSort(int):j => -j
+AOIU_2:17:int_BubbleSort(int):j => -j
+AOIU_3:18:int_BubbleSort(int):temp => -temp
+AOIS_1:13:int_BubbleSort(int):i => ++i
+AOIS_2:13:int_BubbleSort(int):i => --i
+AOIS_3:13:int_BubbleSort(int):i => i++
+AOIS_4:13:int_BubbleSort(int):i => i--
+AOIS_5:13:int_BubbleSort(int):arr.length => ++arr.length
+AOIS_6:13:int_BubbleSort(int):arr.length => --arr.length
+AOIS_7:13:int_BubbleSort(int):arr.length => arr.length++
+AOIS_8:13:int_BubbleSort(int):arr.length => arr.length--
+AOIS_9:14:int_BubbleSort(int):j => ++j
+AOIS_10:14:int_BubbleSort(int):j => --j
+AOIS_11:14:int_BubbleSort(int):j => j++
+AOIS_12:14:int_BubbleSort(int):j => j--
+AOIS_13:14:int_BubbleSort(int):arr.length => ++arr.length
+AOIS_14:14:int_BubbleSort(int):arr.length => --arr.length
+AOIS_15:14:int_BubbleSort(int):arr.length => arr.length++
+AOIS_16:14:int_BubbleSort(int):arr.length => arr.length--
+AOIS_17:14:int_BubbleSort(int):i => ++i
+AOIS_18:14:int_BubbleSort(int):i => --i
+AOIS_19:14:int_BubbleSort(int):i => i++
+AOIS_20:14:int_BubbleSort(int):i => i--
+AOIS_21:15:int_BubbleSort(int):j => ++j
+AOIS_22:15:int_BubbleSort(int):j => --j
+AOIS_23:15:int_BubbleSort(int):j => j++
+AOIS_24:15:int_BubbleSort(int):j => j--
+AOIS_25:15:int_BubbleSort(int):j => j++
+AOIS_26:15:int_BubbleSort(int):j => j--
+AOIS_27:16:int_BubbleSort(int):j => ++j
+AOIS_28:16:int_BubbleSort(int):j => --j
+AOIS_29:16:int_BubbleSort(int):j => j++
+AOIS_30:16:int_BubbleSort(int):j => j--
+AOIS_31:17:int_BubbleSort(int):j => ++j
+AOIS_32:17:int_BubbleSort(int):j => --j
+AOIS_33:17:int_BubbleSort(int):j => j++
+AOIS_34:17:int_BubbleSort(int):j => j--
+AOIS_35:18:int_BubbleSort(int):temp => ++temp
+AOIS_36:18:int_BubbleSort(int):temp => --temp
+AOIS_37:18:int_BubbleSort(int):temp => temp++
+AOIS_38:18:int_BubbleSort(int):temp => temp--
+ROR_1:13:int_BubbleSort(int): i < arr.length - 1  =>   i > arr.length - 1
+ROR_2:13:int_BubbleSort(int): i < arr.length - 1  =>   i >= arr.length - 1
+ROR_3:13:int_BubbleSort(int): i < arr.length - 1  =>   i <= arr.length - 1
+ROR_4:13:int_BubbleSort(int): i < arr.length - 1  =>   i == arr.length - 1
+ROR_5:13:int_BubbleSort(int): i < arr.length - 1  =>   i != arr.length - 1
+ROR_6:13:int_BubbleSort(int): i < arr.length - 1  =>   true
+ROR_7:13:int_BubbleSort(int): i < arr.length - 1  =>   false
+ROR_8:14:int_BubbleSort(int): j < arr.length - i - 1  =>   j > arr.length - i - 1
+ROR_9:14:int_BubbleSort(int): j < arr.length - i - 1  =>   j >= arr.length - i - 1
+ROR_10:14:int_BubbleSort(int): j < arr.length - i - 1  =>   j <= arr.length - i - 1
+ROR_11:14:int_BubbleSort(int): j < arr.length - i - 1  =>   j == arr.length - i - 1
+ROR_12:14:int_BubbleSort(int): j < arr.length - i - 1  =>   j != arr.length - i - 1
+ROR_13:14:int_BubbleSort(int): j < arr.length - i - 1  =>   true
+ROR_14:14:int_BubbleSort(int): j < arr.length - i - 1  =>   false
+ROR_15:15:int_BubbleSort(int): arr[j + 1] < arr[j]  =>   arr[j + 1] > arr[j]
+ROR_16:15:int_BubbleSort(int): arr[j + 1] < arr[j]  =>   arr[j + 1] >= arr[j]
+ROR_17:15:int_BubbleSort(int): arr[j + 1] < arr[j]  =>   arr[j + 1] <= arr[j]
+ROR_18:15:int_BubbleSort(int): arr[j + 1] < arr[j]  =>   arr[j + 1] == arr[j]
+ROR_19:15:int_BubbleSort(int): arr[j + 1] < arr[j]  =>   arr[j + 1] != arr[j]
+ROR_20:15:int_BubbleSort(int): arr[j + 1] < arr[j]  =>   true
+ROR_21:15:int_BubbleSort(int): arr[j + 1] < arr[j]  =>   false
+COI_1:13:int_BubbleSort(int): i < arr.length - 1  =>  !(i < arr.length - 1)
+COI_2:14:int_BubbleSort(int): j < arr.length - i - 1  =>  !(j < arr.length - i - 1)
+COI_3:15:int_BubbleSort(int): arr[j + 1] < arr[j]  =>  !(arr[j + 1] < arr[j])
+LOI_1:13:int_BubbleSort(int):i => ~i
+LOI_2:13:int_BubbleSort(int):arr.length => ~arr.length
+LOI_3:13:int_BubbleSort(int):i => ~i
+LOI_4:14:int_BubbleSort(int):j => ~j
+LOI_5:14:int_BubbleSort(int):arr.length => ~arr.length
+LOI_6:14:int_BubbleSort(int):i => ~i
+LOI_7:14:int_BubbleSort(int):j => ~j
+LOI_8:15:int_BubbleSort(int):j => ~j
+LOI_9:15:int_BubbleSort(int):j => ~j
+LOI_10:16:int_BubbleSort(int):j => ~j
+LOI_11:17:int_BubbleSort(int):j => ~j
+LOI_12:17:int_BubbleSort(int):j => ~j
+LOI_13:18:int_BubbleSort(int):j => ~j
+LOI_14:18:int_BubbleSort(int):temp => ~temp
+SDL_1:14:int_BubbleSort(int): int temp; for (int i = 0; i < arr.length - 1; i++) {     for (int j = 0; j < arr.length - i - 1; j++) {         if (arr[j + 1] < arr[j]) {             temp = arr[j];             arr[j] = arr[j + 1];             arr[j + 1] = temp;         }     } } return arr;  =>   int temp; return arr;
+SDL_2:14:int_BubbleSort(int): for (int j = 0; j < arr.length - i - 1; j++) {     if (arr[j + 1] < arr[j]) {         temp = arr[j];         arr[j] = arr[j + 1];         arr[j + 1] = temp;     } }  =>  
+SDL_3:22:int_BubbleSort(int): for (int i = 0; i < arr.length - 1; i++) {     for (int j = 0; j < arr.length - i - 1; j++) {         if (arr[j + 1] < arr[j]) {             temp = arr[j];             arr[j] = arr[j + 1];             arr[j + 1] = temp;         }     } }  =>   for (int i = 0;; i++) {     for (int j = 0; j < arr.length - i - 1; j++) {         if (arr[j + 1] < arr[j]) {             temp = arr[j];             arr[j] = arr[j + 1];             arr[j + 1] = temp;         }     } }
+SDL_4:22:int_BubbleSort(int): for (int i = 0; i < arr.length - 1; i++) {     for (int j = 0; j < arr.length - i - 1; j++) {         if (arr[j + 1] < arr[j]) {             temp = arr[j];             arr[j] = arr[j + 1];             arr[j + 1] = temp;         }     } }  =>   for (int i = 0; i < arr.length - 1;) {     for (int j = 0; j < arr.length - i - 1; j++) {         if (arr[j + 1] < arr[j]) {             temp = arr[j];             arr[j] = arr[j + 1];             arr[j + 1] = temp;         }     } }
+SDL_5:15:int_BubbleSort(int): if (arr[j + 1] < arr[j]) {     temp = arr[j];     arr[j] = arr[j + 1];     arr[j + 1] = temp; }  =>  
+SDL_6:21:int_BubbleSort(int): for (int j = 0; j < arr.length - i - 1; j++) {     if (arr[j + 1] < arr[j]) {         temp = arr[j];         arr[j] = arr[j + 1];         arr[j + 1] = temp;     } }  =>   for (int j = 0;; j++) {     if (arr[j + 1] < arr[j]) {         temp = arr[j];         arr[j] = arr[j + 1];         arr[j + 1] = temp;     } }
+SDL_7:21:int_BubbleSort(int): for (int j = 0; j < arr.length - i - 1; j++) {     if (arr[j + 1] < arr[j]) {         temp = arr[j];         arr[j] = arr[j + 1];         arr[j + 1] = temp;     } }  =>   for (int j = 0; j < arr.length - i - 1;) {     if (arr[j + 1] < arr[j]) {         temp = arr[j];         arr[j] = arr[j + 1];         arr[j + 1] = temp;     } }
+SDL_8:18:int_BubbleSort(int): temp = arr[j]; arr[j] = arr[j + 1]; arr[j + 1] = temp;  =>   arr[j] = arr[j + 1]; arr[j + 1] = temp;
+SDL_9:18:int_BubbleSort(int): temp = arr[j]; arr[j] = arr[j + 1]; arr[j + 1] = temp;  =>   temp = arr[j]; arr[j + 1] = temp;
+SDL_10:18:int_BubbleSort(int): temp = arr[j]; arr[j] = arr[j + 1]; arr[j + 1] = temp;  =>   temp = arr[j]; arr[j] = arr[j + 1];
+SDL_11:20:int_BubbleSort(int): if (arr[j + 1] < arr[j]) {     temp = arr[j];     arr[j] = arr[j + 1];     arr[j + 1] = temp; }  =>   if (true) {     temp = arr[j];     arr[j] = arr[j + 1];     arr[j + 1] = temp; }
+SDL_12:23:int_BubbleSort(int): return arr;  =>   return 0;
+VDL_1:13:int_BubbleSort(int):i < arr.length - 1 => arr.length - 1
+VDL_2:13:int_BubbleSort(int):i++ =>  
+VDL_3:14:int_BubbleSort(int):arr.length - i => arr.length
+VDL_4:14:int_BubbleSort(int):j < arr.length - i - 1 => arr.length - i - 1
+VDL_5:14:int_BubbleSort(int):j++ =>  
+VDL_6:15:int_BubbleSort(int):j + 1 => 1
+VDL_7:15:int_BubbleSort(int):arr[j + 1] < arr[j] => arr[j]
+VDL_8:15:int_BubbleSort(int):arr[j + 1] < arr[j] => arr[j + 1]
+VDL_9:17:int_BubbleSort(int):j + 1 => 1
+VDL_10:18:int_BubbleSort(int):j + 1 => 1
+ODL_1:13:int_BubbleSort(int):arr.length - 1 => arr.length
+ODL_2:13:int_BubbleSort(int):arr.length - 1 => 1
+ODL_3:13:int_BubbleSort(int):i < arr.length - 1 => i
+ODL_4:13:int_BubbleSort(int):i < arr.length - 1 => arr.length - 1
+ODL_5:13:int_BubbleSort(int):i++ => i
+ODL_6:14:int_BubbleSort(int):arr.length - i => arr.length
+ODL_7:14:int_BubbleSort(int):arr.length - i => i
+ODL_8:14:int_BubbleSort(int):arr.length - i - 1 => arr.length - i
+ODL_9:14:int_BubbleSort(int):arr.length - i - 1 => 1
+ODL_10:14:int_BubbleSort(int):j < arr.length - i - 1 => j
+ODL_11:14:int_BubbleSort(int):j < arr.length - i - 1 => arr.length - i - 1
+ODL_12:14:int_BubbleSort(int):j++ => j
+ODL_13:15:int_BubbleSort(int):j + 1 => j
+ODL_14:15:int_BubbleSort(int):j + 1 => 1
+ODL_15:15:int_BubbleSort(int):arr[j + 1] < arr[j] => arr[j + 1]
+ODL_16:15:int_BubbleSort(int):arr[j + 1] < arr[j] => arr[j]
+ODL_17:17:int_BubbleSort(int):j + 1 => j
+ODL_18:17:int_BubbleSort(int):j + 1 => 1
+ODL_19:18:int_BubbleSort(int):j + 1 => j
+ODL_20:18:int_BubbleSort(int):j + 1 => 1
+CDL_1:13:int_BubbleSort(int):arr.length - 1 => arr.length
+CDL_2:14:int_BubbleSort(int):arr.length - i - 1 => arr.length - i
+CDL_3:15:int_BubbleSort(int):j + 1 => j
+CDL_4:17:int_BubbleSort(int):j + 1 => j
+CDL_5:18:int_BubbleSort(int):j + 1 => j

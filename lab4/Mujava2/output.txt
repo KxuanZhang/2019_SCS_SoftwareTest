@@ -1,0 +1,153 @@
+TestBubbleSort
+
+
+======================================== Generating Original Test Results ========================================
+{testBubbleSort=pass}
+
+
+======================================== Executing Mutants ========================================
+test report: {testBubbleSort=}
+mutant report: {}
+[Notice] There are no mutants to apply
+
+
+======================================== Executing Mutants ========================================
+  AOIS_1{testBubbleSort=testBubbleSort: 26; expected:<5> but was:<6>}
+  AOIS_10{testBubbleSort=testBubbleSort: 23; -1}
+  AOIS_11{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  AOIS_12{testBubbleSort=testBubbleSort: 23; -1}
+  AOIS_17{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  AOIS_18{testBubbleSort=testBubbleSort: 23; 5}
+  AOIS_19{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  AOIS_2{testBubbleSort=testBubbleSort: 23; 5}
+  AOIS_20{testBubbleSort=testBubbleSort: 23; 5}
+  AOIS_21{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  AOIS_22{testBubbleSort=testBubbleSort: 23; -1}
+  AOIS_23{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  AOIS_24{testBubbleSort=testBubbleSort: 23; -1}
+  AOIS_25{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  AOIS_26 time_out: more than 3000 seconds
+  AOIS_27{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  AOIS_28{testBubbleSort=testBubbleSort: 23; -1}
+  AOIS_29{testBubbleSort=testBubbleSort: 23; 5}
+  AOIS_3{testBubbleSort=testBubbleSort: 26; expected:<5> but was:<6>}
+  AOIS_30 time_out: more than 3000 seconds
+  AOIS_31{testBubbleSort=testBubbleSort: 23; 5}
+  AOIS_32 time_out: more than 3000 seconds
+  AOIS_33{testBubbleSort=testBubbleSort: 23; 5}
+  AOIS_34 time_out: more than 3000 seconds
+  AOIS_35{testBubbleSort=testBubbleSort: 26; expected:<6> but was:<9>}
+  AOIS_36{testBubbleSort=testBubbleSort: 26; expected:<5> but was:<4>}
+  AOIS_37{testBubbleSort=pass}
+  AOIS_38{testBubbleSort=pass}
+  AOIS_4{testBubbleSort=testBubbleSort: 23; 5}
+  AOIS_9{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  AOIU_1{testBubbleSort=testBubbleSort: 23; -1}
+  AOIU_2{testBubbleSort=testBubbleSort: 23; -1}
+  AOIU_3{testBubbleSort=testBubbleSort: 26; expected:<1> but was:<-6>}
+  AORB_1{testBubbleSort=pass}
+  AORB_10{testBubbleSort=testBubbleSort: 23; 5}
+  AORB_11{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  AORB_12{testBubbleSort=testBubbleSort: 23; 5}
+  AORB_13{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  AORB_14{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  AORB_15{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<5>}
+  AORB_16{testBubbleSort=testBubbleSort: 23; -1}
+  AORB_17{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  AORB_18{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  AORB_19{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<1>}
+  AORB_2{testBubbleSort=pass}
+  AORB_20{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<1>}
+  AORB_21{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  AORB_22{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  AORB_23{testBubbleSort=testBubbleSort: 26; expected:<1> but was:<6>}
+  AORB_24{testBubbleSort=testBubbleSort: 23; -1}
+  AORB_3{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  AORB_4{testBubbleSort=pass}
+  AORB_5{testBubbleSort=testBubbleSort: 23; 5}
+  AORB_6{testBubbleSort=testBubbleSort: 23; / by zero}
+  AORB_7{testBubbleSort=testBubbleSort: 23; / by zero}
+  AORB_8{testBubbleSort=testBubbleSort: 23; 5}
+  AORB_9{testBubbleSort=testBubbleSort: 23; 5}
+  AORS_1{testBubbleSort=testBubbleSort: 23; 5}
+  AORS_2{testBubbleSort=testBubbleSort: 23; -1}
+  CDL_1{testBubbleSort=pass}
+  CDL_2{testBubbleSort=testBubbleSort: 23; 5}
+  CDL_3{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  CDL_4{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  CDL_5{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  COI_1{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  COI_2{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  COI_3{testBubbleSort=testBubbleSort: 26; expected:<1> but was:<6>}
+  LOI_1{testBubbleSort=pass}
+  LOI_10{testBubbleSort=testBubbleSort: 23; -2}
+  LOI_11{testBubbleSort=testBubbleSort: 23; -2}
+  LOI_12{testBubbleSort=testBubbleSort: 23; -1}
+  LOI_13{testBubbleSort=testBubbleSort: 23; -1}
+  LOI_14{testBubbleSort=testBubbleSort: 26; expected:<1> but was:<-7>}
+  LOI_2{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  LOI_4{testBubbleSort=testBubbleSort: 23; 5}
+  LOI_5{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  LOI_6{testBubbleSort=testBubbleSort: 23; 5}
+  LOI_8{testBubbleSort=testBubbleSort: 23; -1}
+  LOI_9{testBubbleSort=testBubbleSort: 23; -1}
+  ODL_1{testBubbleSort=pass}
+  ODL_13{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  ODL_14{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  ODL_17{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  ODL_18{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  ODL_19{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  ODL_2{testBubbleSort=pass}
+  ODL_20{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  ODL_6{testBubbleSort=pass}
+  ODL_7{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  ODL_8{testBubbleSort=testBubbleSort: 23; 5}
+  ODL_9{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  ROR_1{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  ROR_10{testBubbleSort=testBubbleSort: 23; 5}
+  ROR_11{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  ROR_12{testBubbleSort=pass}
+  ROR_13{testBubbleSort=testBubbleSort: 23; 5}
+  ROR_15{testBubbleSort=testBubbleSort: 26; expected:<1> but was:<6>}
+  ROR_16{testBubbleSort=testBubbleSort: 26; expected:<1> but was:<6>}
+  ROR_17{testBubbleSort=pass}
+  ROR_18{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  ROR_19{testBubbleSort=testBubbleSort: 26; expected:<1> but was:<5>}
+  ROR_2{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  ROR_20{testBubbleSort=testBubbleSort: 26; expected:<1> but was:<5>}
+  ROR_21{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  ROR_3{testBubbleSort=pass}
+  ROR_4{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  ROR_5{testBubbleSort=pass}
+  ROR_8{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  ROR_9{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  SDL_1{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  SDL_10{testBubbleSort=testBubbleSort: 26; expected:<5> but was:<2>}
+  SDL_11{testBubbleSort=testBubbleSort: 26; expected:<1> but was:<5>}
+  SDL_2{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  SDL_4 time_out: more than 3000 seconds
+  SDL_5{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  SDL_6{testBubbleSort=testBubbleSort: 23; 5}
+  SDL_7 time_out: more than 3000 seconds
+  SDL_9{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  VDL_10{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  VDL_2 time_out: more than 3000 seconds
+  VDL_3{testBubbleSort=pass}
+  VDL_5 time_out: more than 3000 seconds
+  VDL_6{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+  VDL_9{testBubbleSort=testBubbleSort: 26; expected:<2> but was:<6>}
+test report: {testBubbleSort=AOIS_1, AOIS_10, AOIS_11, AOIS_12, AOIS_17, AOIS_18, AOIS_19, AOIS_2, AOIS_20, AOIS_21, AOIS_22, AOIS_23, AOIS_24, AOIS_25, AOIS_26, AOIS_27, AOIS_28, AOIS_29, AOIS_3, AOIS_30, AOIS_31, AOIS_32, AOIS_33, AOIS_34, AOIS_35, AOIS_36, AOIS_4, AOIS_9, AOIU_1, AOIU_2, AOIU_3, AORB_10, AORB_11, AORB_12, AORB_13, AORB_14, AORB_15, AORB_16, AORB_17, AORB_18, AORB_19, AORB_20, AORB_21, AORB_22, AORB_23, AORB_24, AORB_3, AORB_5, AORB_6, AORB_7, AORB_8, AORB_9, AORS_1, AORS_2, CDL_2, CDL_3, CDL_4, CDL_5, COI_1, COI_2, COI_3, LOI_10, LOI_11, LOI_12, LOI_13, LOI_14, LOI_2, LOI_4, LOI_5, LOI_6, LOI_8, LOI_9, ODL_13, ODL_14, ODL_17, ODL_18, ODL_19, ODL_20, ODL_7, ODL_8, ODL_9, ROR_1, ROR_10, ROR_11, ROR_13, ROR_15, ROR_16, ROR_18, ROR_19, ROR_2, ROR_20, ROR_21, ROR_4, ROR_8, ROR_9, SDL_1, SDL_10, SDL_11, SDL_2, SDL_4, SDL_5, SDL_6, SDL_7, SDL_9, VDL_10, VDL_2, VDL_5, VDL_6, VDL_9}
+mutant report: {VDL_10=testBubbleSort, COI_3=testBubbleSort, COI_2=testBubbleSort, LOI_5=testBubbleSort, LOI_6=testBubbleSort, LOI_8=testBubbleSort, LOI_1=, LOI_2=testBubbleSort, LOI_4=testBubbleSort, COI_1=testBubbleSort, CDL_1=, CDL_2=testBubbleSort, CDL_3=testBubbleSort, LOI_9=testBubbleSort, SDL_11=testBubbleSort, AOIS_38=, VDL_9=testBubbleSort, AOIS_37=, AOIS_36=testBubbleSort, AOIS_35=testBubbleSort, AOIS_34=testBubbleSort, SDL_10=testBubbleSort, AOIS_33=testBubbleSort, AOIS_32=testBubbleSort, VDL_3=, AOIS_31=testBubbleSort, VDL_2=testBubbleSort, AOIS_30=testBubbleSort, VDL_6=testBubbleSort, VDL_5=testBubbleSort, AOIS_29=testBubbleSort, AOIS_28=testBubbleSort, AOIS_27=testBubbleSort, AOIS_26=testBubbleSort, ROR_21=testBubbleSort, AOIS_25=testBubbleSort, ROR_20=testBubbleSort, AOIS_24=testBubbleSort, AOIS_23=testBubbleSort, AOIS_22=testBubbleSort, AOIU_3=testBubbleSort, ODL_9=testBubbleSort, AOIS_21=testBubbleSort, ODL_8=testBubbleSort, AOIS_20=testBubbleSort, AOIU_1=testBubbleSort, AOIU_2=testBubbleSort, ODL_1=, AORB_9=testBubbleSort, ODL_2=, ODL_7=testBubbleSort, ODL_6=, AORB_3=testBubbleSort, AORB_4=, AORB_1=, AORB_2=, AORB_7=testBubbleSort, AORB_8=testBubbleSort, AORB_5=testBubbleSort, AORB_6=testBubbleSort, AOIS_19=testBubbleSort, ROR_2=testBubbleSort, AOIS_18=testBubbleSort, ROR_13=testBubbleSort, ROR_3=, AOIS_17=testBubbleSort, ROR_16=testBubbleSort, ROR_4=testBubbleSort, ROR_15=testBubbleSort, ROR_5=, ROR_10=testBubbleSort, ROR_12=, ROR_8=testBubbleSort, AOIS_12=testBubbleSort, ROR_11=testBubbleSort, ROR_9=testBubbleSort, AOIS_11=testBubbleSort, AORS_2=testBubbleSort, AOIS_10=testBubbleSort, AORS_1=testBubbleSort, ROR_1=testBubbleSort, ROR_18=testBubbleSort, ROR_17=, ROR_19=testBubbleSort, SDL_5=testBubbleSort, SDL_4=testBubbleSort, SDL_7=testBubbleSort, SDL_6=testBubbleSort, AORB_23=testBubbleSort, SDL_9=testBubbleSort, AORB_24=testBubbleSort, AORB_21=testBubbleSort, AORB_22=testBubbleSort, SDL_1=testBubbleSort, SDL_2=testBubbleSort, AORB_16=testBubbleSort, AORB_17=testBubbleSort, AORB_14=testBubbleSort, AORB_15=testBubbleSort, AORB_12=testBubbleSort, AORB_13=testBubbleSort, AORB_10=testBubbleSort, AORB_11=testBubbleSort, AORB_18=testBubbleSort, AORB_19=testBubbleSort, CDL_4=testBubbleSort, CDL_5=testBubbleSort, ODL_20=testBubbleSort, AORB_20=testBubbleSort, ODL_19=testBubbleSort, AOIS_3=testBubbleSort, AOIS_4=testBubbleSort, AOIS_1=testBubbleSort, AOIS_2=testBubbleSort, LOI_14=testBubbleSort, AOIS_9=testBubbleSort, LOI_10=testBubbleSort, LOI_11=testBubbleSort, LOI_12=testBubbleSort, LOI_13=testBubbleSort, ODL_14=testBubbleSort, ODL_13=testBubbleSort, ODL_18=testBubbleSort, ODL_17=testBubbleSort}
+
+
+======================================== Executing Mutants ========================================
+test report: {testBubbleSort=AOIS_1, AOIS_10, AOIS_11, AOIS_12, AOIS_17, AOIS_18, AOIS_19, AOIS_2, AOIS_20, AOIS_21, AOIS_22, AOIS_23, AOIS_24, AOIS_25, AOIS_26, AOIS_27, AOIS_28, AOIS_29, AOIS_3, AOIS_30, AOIS_31, AOIS_32, AOIS_33, AOIS_34, AOIS_35, AOIS_36, AOIS_4, AOIS_9, AOIU_1, AOIU_2, AOIU_3, AORB_10, AORB_11, AORB_12, AORB_13, AORB_14, AORB_15, AORB_16, AORB_17, AORB_18, AORB_19, AORB_20, AORB_21, AORB_22, AORB_23, AORB_24, AORB_3, AORB_5, AORB_6, AORB_7, AORB_8, AORB_9, AORS_1, AORS_2, CDL_2, CDL_3, CDL_4, CDL_5, COI_1, COI_2, COI_3, LOI_10, LOI_11, LOI_12, LOI_13, LOI_14, LOI_2, LOI_4, LOI_5, LOI_6, LOI_8, LOI_9, ODL_13, ODL_14, ODL_17, ODL_18, ODL_19, ODL_20, ODL_7, ODL_8, ODL_9, ROR_1, ROR_10, ROR_11, ROR_13, ROR_15, ROR_16, ROR_18, ROR_19, ROR_2, ROR_20, ROR_21, ROR_4, ROR_8, ROR_9, SDL_1, SDL_10, SDL_11, SDL_2, SDL_4, SDL_5, SDL_6, SDL_7, SDL_9, VDL_10, VDL_2, VDL_5, VDL_6, VDL_9}
+mutant report: {VDL_10=testBubbleSort, COI_3=testBubbleSort, COI_2=testBubbleSort, LOI_5=testBubbleSort, LOI_6=testBubbleSort, LOI_8=testBubbleSort, LOI_1=, LOI_2=testBubbleSort, LOI_4=testBubbleSort, COI_1=testBubbleSort, CDL_1=, CDL_2=testBubbleSort, CDL_3=testBubbleSort, LOI_9=testBubbleSort, SDL_11=testBubbleSort, AOIS_38=, VDL_9=testBubbleSort, AOIS_37=, AOIS_36=testBubbleSort, AOIS_35=testBubbleSort, AOIS_34=testBubbleSort, SDL_10=testBubbleSort, AOIS_33=testBubbleSort, AOIS_32=testBubbleSort, VDL_3=, AOIS_31=testBubbleSort, VDL_2=testBubbleSort, AOIS_30=testBubbleSort, VDL_6=testBubbleSort, VDL_5=testBubbleSort, AOIS_29=testBubbleSort, AOIS_28=testBubbleSort, AOIS_27=testBubbleSort, AOIS_26=testBubbleSort, ROR_21=testBubbleSort, AOIS_25=testBubbleSort, ROR_20=testBubbleSort, AOIS_24=testBubbleSort, AOIS_23=testBubbleSort, AOIS_22=testBubbleSort, AOIU_3=testBubbleSort, ODL_9=testBubbleSort, AOIS_21=testBubbleSort, ODL_8=testBubbleSort, AOIS_20=testBubbleSort, AOIU_1=testBubbleSort, AOIU_2=testBubbleSort, ODL_1=, AORB_9=testBubbleSort, ODL_2=, ODL_7=testBubbleSort, ODL_6=, AORB_3=testBubbleSort, AORB_4=, AORB_1=, AORB_2=, AORB_7=testBubbleSort, AORB_8=testBubbleSort, AORB_5=testBubbleSort, AORB_6=testBubbleSort, AOIS_19=testBubbleSort, ROR_2=testBubbleSort, AOIS_18=testBubbleSort, ROR_13=testBubbleSort, ROR_3=, AOIS_17=testBubbleSort, ROR_16=testBubbleSort, ROR_4=testBubbleSort, ROR_15=testBubbleSort, ROR_5=, ROR_10=testBubbleSort, ROR_12=, ROR_8=testBubbleSort, AOIS_12=testBubbleSort, ROR_11=testBubbleSort, ROR_9=testBubbleSort, AOIS_11=testBubbleSort, AORS_2=testBubbleSort, AOIS_10=testBubbleSort, AORS_1=testBubbleSort, ROR_1=testBubbleSort, ROR_18=testBubbleSort, ROR_17=, ROR_19=testBubbleSort, SDL_5=testBubbleSort, SDL_4=testBubbleSort, SDL_7=testBubbleSort, SDL_6=testBubbleSort, AORB_23=testBubbleSort, SDL_9=testBubbleSort, AORB_24=testBubbleSort, AORB_21=testBubbleSort, AORB_22=testBubbleSort, SDL_1=testBubbleSort, SDL_2=testBubbleSort, AORB_16=testBubbleSort, AORB_17=testBubbleSort, AORB_14=testBubbleSort, AORB_15=testBubbleSort, AORB_12=testBubbleSort, AORB_13=testBubbleSort, AORB_10=testBubbleSort, AORB_11=testBubbleSort, AORB_18=testBubbleSort, AORB_19=testBubbleSort, CDL_4=testBubbleSort, CDL_5=testBubbleSort, ODL_20=testBubbleSort, AORB_20=testBubbleSort, ODL_19=testBubbleSort, AOIS_3=testBubbleSort, AOIS_4=testBubbleSort, AOIS_1=testBubbleSort, AOIS_2=testBubbleSort, LOI_14=testBubbleSort, AOIS_9=testBubbleSort, LOI_10=testBubbleSort, LOI_11=testBubbleSort, LOI_12=testBubbleSort, LOI_13=testBubbleSort, ODL_14=testBubbleSort, ODL_13=testBubbleSort, ODL_18=testBubbleSort, ODL_17=testBubbleSort}
+MutantsViewerPanel.mList_mouseClicked - mutant_log != null
+MutantsViewerPanel.getMutatedContent --- start_index =7 : end_index =10
+MutantsViewerPanel.mList_mouseClicked - mutant_log != null
+MutantsViewerPanel.getMutatedContent --- start_index =7 : end_index =10
+MutantsViewerPanel.mList_mouseClicked - mutant_log != null
+MutantsViewerPanel.getMutatedContent --- start_index =7 : end_index =10
+MutantsViewerPanel.mList_mouseClicked - mutant_log != null
+MutantsViewerPanel.getMutatedContent --- start_index =7 : end_index =10

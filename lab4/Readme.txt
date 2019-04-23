@@ -1,0 +1,2 @@
+Mujava文件夹下是运行java mujava.gui.GenMutantsMain后的变异测试
+Mujava2文件夹下是运行java mujava.gui.RunTestMain后，使用testset 的变异测试。
